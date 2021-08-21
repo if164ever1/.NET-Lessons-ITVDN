@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, https://en.wikipedia.org/wiki/Mobile_phone, 600, 1111
+2, Laptop, https://en.wikipedia.org/wiki/Laptop, 3200, 2222
+3, Keyboard, https://en.wikipedia.org/wiki/Computer_keyboard, 35, 3300
+4, Mouse, https://en.wikipedia.org/wiki/Mouse, 10, 400
+5, Pen, https://en.wikipedia.org/wiki/Pen, 1, 4
+6, Notebook, https://en.wikipedia.org/wiki/Notebook, 1, 0
