@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, https://en.wikipedia.org/wiki/Mobile_phone, 600, 1111, CATEGORY_PHONE
+2, Laptop, https://en.wikipedia.org/wiki/Laptop, 3200, 2222, CATEGORY_PC
+3, Keyboard, https://en.wikipedia.org/wiki/Computer_keyboard, 35, 3300, CATEGORY_PC
+4, Mouse, https://en.wikipedia.org/wiki/Mouse, 10, 400, CATEGORY_PC
+5, Pen, https://en.wikipedia.org/wiki/Pen, 1, 4, CATEGORY_OFFICE
+6, Notebook, https://en.wikipedia.org/wiki/Notebook, 1, 0, CATEGORY_PC

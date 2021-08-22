@@ -1,0 +1,41 @@
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\appsettings.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\Lesson 2. Routing.exe
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\Lesson 2. Routing.deps.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\Lesson 2. Routing.runtimeconfig.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\Lesson 2. Routing.runtimeconfig.dev.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\Lesson 2. Routing.dll
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\Lesson 2. Routing.pdb
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\Lesson 2. Routing.Views.dll
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\bin\Debug\netcoreapp3.1\Lesson 2. Routing.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.csproj.AssemblyReference.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.AssemblyInfoInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.AssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.csproj.CoreCompileInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.MvcApplicationPartsAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.RazorAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.RazorAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\staticwebassets\Lesson 2. Routing.StaticWebAssets.Manifest.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\staticwebassets\Lesson 2. Routing.StaticWebAssets.xml
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lesson 2. Routing.styles.css
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.TagHelpers.input.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.TagHelpers.output.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.RazorCoreGenerate.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Add.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.RazorTargetAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.RazorTargetAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.dll
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.pdb
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.genruntimeconfig.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Lesson 2. Routing.csproj.CopyComplete
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mul.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Div.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 2. Routing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sub.cshtml.g.cs
