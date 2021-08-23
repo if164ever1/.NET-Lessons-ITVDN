@@ -1,0 +1,45 @@
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\appsettings.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\Lesson 3 Controllers.exe
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\Lesson 3 Controllers.deps.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\Lesson 3 Controllers.runtimeconfig.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\Lesson 3 Controllers.runtimeconfig.dev.json
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\Lesson 3 Controllers.dll
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\Lesson 3 Controllers.pdb
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\Lesson 3 Controllers.Views.dll
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\bin\Debug\netcoreapp3.1\Lesson 3 Controllers.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.csproj.AssemblyReference.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.AssemblyInfoInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.AssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.csproj.CoreCompileInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.MvcApplicationPartsAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.RazorAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.RazorAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\staticwebassets\Lesson 3 Controllers.StaticWebAssets.Manifest.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\staticwebassets\Lesson 3 Controllers.StaticWebAssets.xml
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lesson 3 Controllers.styles.css
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.TagHelpers.input.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.TagHelpers.output.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.RazorCoreGenerate.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.RazorTargetAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.RazorTargetAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.dll
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.pdb
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.genruntimeconfig.cache
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Lesson 3 Controllers.csproj.CopyComplete
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Data\Index.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Home\SendExample.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Sample\Sample1.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Sample\Sample2.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Sample\Sample3.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Lesson 3 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Sample\Sample4.cshtml.g.cs

@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <ul>
+        @foreach (Product item in ViewBag.Data)
+        {
+            <li>
+                @item.Id
+                @item.Name
+                @item.Price
+            </li>
+        }
+    </ul>
+</body>
+</html>

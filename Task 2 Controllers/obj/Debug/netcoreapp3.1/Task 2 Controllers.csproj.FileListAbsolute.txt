@@ -1,0 +1,39 @@
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.csproj.AssemblyReference.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.AssemblyInfoInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.AssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.csproj.CoreCompileInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.MvcApplicationPartsAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.RazorAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.RazorAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\appsettings.json
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\Task 2 Controllers.exe
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\Task 2 Controllers.deps.json
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\Task 2 Controllers.runtimeconfig.json
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\Task 2 Controllers.runtimeconfig.dev.json
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\Task 2 Controllers.dll
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\Task 2 Controllers.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\Task 2 Controllers.Views.dll
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\bin\Debug\netcoreapp3.1\Task 2 Controllers.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\staticwebassets\Task 2 Controllers.StaticWebAssets.Manifest.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\staticwebassets\Task 2 Controllers.StaticWebAssets.xml
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\scopedcss\bundle\Task 2 Controllers.styles.css
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.TagHelpers.input.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.TagHelpers.output.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.RazorCoreGenerate.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.RazorTargetAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.RazorTargetAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.dll
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.genruntimeconfig.cache
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Task 2 Controllers.csproj.CopyComplete
+D:\my_programming\.NET Lessons ITVDN\Task 2 Controllers\obj\Debug\netcoreapp3.1\Razor\Views\Products\IndexModel.cshtml.g.cs

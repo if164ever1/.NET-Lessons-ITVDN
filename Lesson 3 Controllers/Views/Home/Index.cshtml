@@ -1,0 +1,23 @@
+﻿@{
+    Layout = null;
+}
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Home page</title>
+</head>
+<body>
+    <form action="/Data/Create" method="post">
+        <input type="text" name="message" value="" />
+        <input type="submit" value="Send to server" />
+    </form>
+
+    <a href="/Data/Catalog/Some-Product">Route Data</a>
+
+    <a href="/Data/Users?id=100">QueryString Data</a>
+</body>
+</html>
