@@ -14,3 +14,7 @@ For example,
 localhost: 50234 / products / list - all products;
 localhost: 50234 / products / list / pc - all products in the pc category;
 localhost: 50234 / products / list / office - all products in the office category.
+
+  Task 2
+Create a web application. Add a model that will represent a collection of objects with Id, Price, Name properties. Fill the collection with random values.
+Make a Products controller with an Index accessor that returns a view with all the data from the model. Do the data transfer to the view in two ways, via the ViewBag and via the strongly typed view. What difficulties did you face while implementing views in two different ways?
