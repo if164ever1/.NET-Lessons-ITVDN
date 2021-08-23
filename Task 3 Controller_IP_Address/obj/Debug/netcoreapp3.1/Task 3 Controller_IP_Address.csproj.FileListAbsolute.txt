@@ -1,0 +1,37 @@
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\appsettings.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.exe
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.deps.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.runtimeconfig.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.runtimeconfig.dev.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.dll
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.Views.dll
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\bin\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.csproj.AssemblyReference.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.AssemblyInfoInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.AssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.csproj.CoreCompileInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.MvcApplicationPartsAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.RazorAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.RazorAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\staticwebassets\Task 3 Controller_IP_Address.StaticWebAssets.Manifest.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\staticwebassets\Task 3 Controller_IP_Address.StaticWebAssets.xml
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\scopedcss\bundle\Task 3 Controller_IP_Address.styles.css
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.TagHelpers.input.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.TagHelpers.output.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.RazorCoreGenerate.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.RazorTargetAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.RazorTargetAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.dll
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.genruntimeconfig.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Task 3 Controller_IP_Address.csproj.CopyComplete
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_IP_Address\obj\Debug\netcoreapp3.1\Razor\Views\Web\Index.cshtml.g.cs

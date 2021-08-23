@@ -1,0 +1,38 @@
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\Task 3 Controller_Calculator.exe
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\Task 3 Controller_Calculator.deps.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\Task 3 Controller_Calculator.runtimeconfig.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\Task 3 Controller_Calculator.runtimeconfig.dev.json
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\Task 3 Controller_Calculator.dll
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\Task 3 Controller_Calculator.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\Task 3 Controller_Calculator.Views.dll
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\bin\Debug\netcoreapp3.1\Task 3 Controller_Calculator.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.csproj.AssemblyReference.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.AssemblyInfoInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.AssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.csproj.CoreCompileInputs.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.MvcApplicationPartsAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.RazorAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.RazorAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Task 3 Controller_Calculator.StaticWebAssets.Manifest.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Task 3 Controller_Calculator.StaticWebAssets.xml
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\scopedcss\bundle\Task 3 Controller_Calculator.styles.css
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.TagHelpers.input.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.TagHelpers.output.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.RazorCoreGenerate.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.RazorTargetAssemblyInfo.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.RazorTargetAssemblyInfo.cs
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.Views.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.dll
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.pdb
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.genruntimeconfig.cache
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Task 3 Controller_Calculator.csproj.CopyComplete
+D:\my_programming\.NET Lessons ITVDN\Task 3 Controller_Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Calculate.cshtml.g.cs

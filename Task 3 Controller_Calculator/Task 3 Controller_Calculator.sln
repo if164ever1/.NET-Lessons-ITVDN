@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3 Controller_Calculator", "Task 3 Controller_Calculator.csproj", "{F1521BC3-6393-4E89-BD86-7FA60FD620FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1521BC3-6393-4E89-BD86-7FA60FD620FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1521BC3-6393-4E89-BD86-7FA60FD620FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1521BC3-6393-4E89-BD86-7FA60FD620FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1521BC3-6393-4E89-BD86-7FA60FD620FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C461A81A-53DD-45AD-9984-641FF768AE2C}
+	EndGlobalSection
+EndGlobal
