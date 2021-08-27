@@ -1,0 +1,39 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <a href="/Json/AboutClient">About Client</a>
+    <a href="/Json/AboutClients">About Clients</a>
+
+    <div>
+        <button id="button">JS Client</button>
+    </div>
+    
+    <p>ID:<span id="idClient"></span></p>
+    <p>NAME:<span id="nameClient"></span></p>
+    <p>EMAIL:<span id="emailClient"></span></p>
+    
+    <script>
+        var btn = document.querySelector("#button");
+        var xml = new XMLHttpRequest();
+
+        btn.addEventListener("click", () => {
+            xml.open("GET", "/json/AboutClient");
+            xml.onload = () => {
+                var response = JSON.parse(xml.response);
+                document.querySelector("#idClient").innerHTML = response.id;
+                document.querySelector("#nameClient").innerHTML = response.name;
+                document.querySelector("#emailClient").innerHTML = response.email;
+            }
+            xml.send();
+        })
+    </script>
+
+</body>
+</html>

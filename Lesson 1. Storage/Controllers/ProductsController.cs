@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 
 using Lesson1.Models;
-
+using Microsoft.AspNetCore.Hosting;
 
 namespace Lesson1
 {
@@ -11,10 +12,12 @@ namespace Lesson1
     {
 
         private ProducrReader reader;
+        private readonly IWebHostEnvironment environment;
 
-        public ProductsController()
+        public ProductsController(IWebHostEnvironment env)
         {
             reader = new ProducrReader();
+            environment = env;
         }
 
         public IActionResult List()
@@ -47,6 +50,11 @@ namespace Lesson1
         public IActionResult Index()
         {
             return View();
+        }
+
+        public IActionResult GetFile()
+        {
+            return PhysicalFile(environment.ContentRootPath + @"/App_Data/data.txt", "text/plain", "downloaded_file.txt");
         }
     }
 }

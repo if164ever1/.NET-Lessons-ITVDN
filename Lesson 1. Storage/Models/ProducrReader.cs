@@ -31,5 +31,7 @@ namespace Lesson1
             }
             return result;
         }
+
+        public string getPath { get; }
     }
 }

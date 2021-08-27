@@ -3,10 +3,6 @@
     Layout = null;
 }
 
-
-
-
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>List of Products</title>
@@ -41,5 +37,7 @@
     {<p>Count: @Model.Count</p>}
 else
 {<p>The list is empty.</p>}
+    <a asp-action="GetFile" asp-controller="Products" target="_blank">Physical File Result</a>
+
 </body>
 </html>
